@@ -130,7 +130,7 @@ npm start
 **Spandana Annamraj**
 
 * GitHub: [https://github.com/Spandana-Annamraj](https://github.com/Spandana-Annamraj)
-* LinkedIn: Add your LinkedIn profile here
+* LinkedIn: www.linkedin.com/in/spandana-annamraj-9b34472b8
 
 ---
 
