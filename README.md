@@ -122,28 +122,8 @@ npm start
 
 ---
 
-## Screenshots
 
-Add screenshots of:
 
-* Home Page
-* Login Page
-* Dashboard
-* Submission Page
-* Evaluation Panel
-* Leaderboard
-
----
-
-## Future Improvements
-
-* Email Notifications
-* Real-Time Leaderboard Updates
-* File Upload Integration
-* Cloud Deployment
-* AI-Based Evaluation Assistance
-
----
 
 ## Author
 
