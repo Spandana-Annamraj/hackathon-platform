@@ -289,7 +289,6 @@ Add screenshots of:
 **Spandana Annamraj**
 
 * GitHub: [https://github.com/Spandana-Annamraj](https://github.com/Spandana-Annamraj)
-* LinkedIn: Add your LinkedIn profile here
 
 ---
 
