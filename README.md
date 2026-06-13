@@ -149,10 +149,4 @@ Add screenshots of:
 **Spandana Annamraj**
 
 * GitHub: [https://github.com/Spandana-Annamraj](https://github.com/Spandana-Annamraj)
-* LinkedIn: [www.linkedin.com/in/spandana-annamraj-9b34472b8](https://www.linkedin.com/in/spandana-annamraj-9b34472b8)
-
----
-
-## License
-
-This project is developed for educational and internship purposes.
+.
